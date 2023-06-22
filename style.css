@@ -18,7 +18,7 @@
   height: 80vh;
   margin: 20px auto;
   display: flex;
-  justify-content: space-evenly;
+  align-items: center;
   flex-direction: column;
 }
 
@@ -69,5 +69,6 @@ img {
         flex-direction: row;
         height: auto;
         margin-top: 20vh;
+        justify-content: space-evenly;
     }
 }
